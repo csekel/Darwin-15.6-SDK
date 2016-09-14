@@ -1,0 +1,10 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+                                         40755 0 0 0 ./usr/local/include/libtelnet
+03e478d4e6871a75507fc237f3ac8ab5297fb90c 100644 0 0 4738 ./usr/local/include/libtelnet/auth-proto.h
+876c53bbd2bf859c80bc1cc9149062b7ad00f118 100644 0 0 3775 ./usr/local/include/libtelnet/auth.h
+6f4143d836eed3ae6259d9d5268416ab97658387 100644 0 0 5348 ./usr/local/include/libtelnet/enc-proto.h
+1a88754b4a6ed0821926ef3b5e920ace5f312f79 100644 0 0 4153 ./usr/local/include/libtelnet/encrypt.h
+f0639aaaaac01075b16870a3bb6731cce02f173b 100644 0 0 3603 ./usr/local/include/libtelnet/misc-proto.h
+8a8120819504c1dcf6331e685924a7caaef7ec0d 100644 0 0 2038 ./usr/local/include/libtelnet/misc.h

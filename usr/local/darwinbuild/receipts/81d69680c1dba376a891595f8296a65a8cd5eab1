@@ -1,0 +1,13 @@
+                                         40755 0 0 0 ./System
+                                         40755 0 0 0 ./System/Library
+                                         40755 0 0 0 ./System/Library/Frameworks
+                                         40755 0 0 0 ./System/Library/Frameworks/OpenAL.framework
+                                         120755 0 0 24 ./System/Library/Frameworks/OpenAL.framework/Headers -> Versions/Current/Headers
+                                         120755 0 0 26 ./System/Library/Frameworks/OpenAL.framework/Resources -> Versions/Current/Resources
+                                         40755 0 0 0 ./System/Library/Frameworks/OpenAL.framework/Versions
+                                         40755 0 0 0 ./System/Library/Frameworks/OpenAL.framework/Versions/A
+                                         40755 0 0 0 ./System/Library/Frameworks/OpenAL.framework/Versions/A/Headers
+b4f6668fc1f38ab96c1b0f3a3ff80a0bb4e79c2c 100644 0 0 16535 ./System/Library/Frameworks/OpenAL.framework/Versions/A/Headers/MacOSX_OALExtensions.h
+05d40ebdc2082206094b8d9c947112acae0a1a77 100644 0 0 25849 ./System/Library/Frameworks/OpenAL.framework/Versions/A/Headers/al.h
+6fc784fec932818bdc6177ebb2500f6d402d8dc8 100644 0 0 8001 ./System/Library/Frameworks/OpenAL.framework/Versions/A/Headers/alc.h
+                                         120755 0 0 1 ./System/Library/Frameworks/OpenAL.framework/Versions/Current -> A

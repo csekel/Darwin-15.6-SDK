@@ -1,0 +1,7 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/include
+                                         40755 0 0 0 ./usr/include/malloc
+aa3ea7bc2ab8c572eb085dd0568f776d4b030297 100644 0 0 13706 ./usr/include/malloc/malloc.h
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+55dec81c7a1fe26914826d64763b8d40b7bfe0a0 100644 0 0 6899 ./usr/local/include/stack_logging.h

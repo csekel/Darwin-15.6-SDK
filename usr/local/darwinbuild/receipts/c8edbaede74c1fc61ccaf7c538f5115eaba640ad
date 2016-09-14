@@ -1,0 +1,64 @@
+                                         40755 0 0 0 ./System
+                                         40755 0 0 0 ./System/Library
+                                         40755 0 0 0 ./System/Library/Frameworks
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework
+                                         120755 0 0 24 ./System/Library/Frameworks/SystemConfiguration.framework/Headers -> Versions/Current/Headers
+                                         120755 0 0 24 ./System/Library/Frameworks/SystemConfiguration.framework/Modules -> Versions/Current/Modules
+                                         120755 0 0 31 ./System/Library/Frameworks/SystemConfiguration.framework/PrivateHeaders -> Versions/Current/PrivateHeaders
+                                         120755 0 0 26 ./System/Library/Frameworks/SystemConfiguration.framework/Resources -> Versions/Current/Resources
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework/Versions
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers
+ed370d445c6fa122e8a35787689d77ab28ab2547 100644 0 0 7054 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/CaptiveNetwork.h
+d50e0c3da84ba2b9538b58ca17036ff0b02024d0 100644 0 0 3009 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/DHCPClientPreferences.h
+f0e4f65e3209d739a23e43e9870a120d880f3e87 100644 0 0 16714 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCDynamicStore.h
+bb12a57c207ca9f5c3f6ff0aee6cdac4d025771f 100644 0 0 4349 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCDynamicStoreCopyDHCPInfo.h
+ef9a154d21f2bc0d44d0d8bd6a4b589fed5a9741 100644 0 0 7135 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCDynamicStoreCopySpecific.h
+713a4b70cd35487825ef65185de25eac6c0d3f2d 100644 0 0 10264 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCDynamicStoreKey.h
+7a9b77d5fcc4f0048c832aa7b55b9a02c43c051f 100644 0 0 7835 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCNetwork.h
+d5e5a4192fe23b68440067df7edc34c62ada9774 100644 0 0 48868 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCNetworkConfiguration.h
+4398cc710c0ffe2287b903516ceffdd6dac8d3ca 100644 0 0 21578 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCNetworkConnection.h
+40b1fb33c8400f3758989fe68938d0d1b3233a6d 100644 0 0 13990 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCNetworkReachability.h
+93f071f7e3bea6b9b90fc5e0cc3e6be7f2c0b1bc 100644 0 0 16507 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCPreferences.h
+349d7c429442a01b524d8c2ea6bae80161245843 100644 0 0 5789 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCPreferencesPath.h
+f606c222b406f20a64d5bce028e31855f9cadf76 100644 0 0 3187 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCPreferencesSetSpecific.h
+a63ab958a28f6548bdeb02930e0a4dad12b9ebc1 100644 0 0 106012 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SCSchemaDefinitions.h
+6163c7be3af816e26b07ae225e6de4394b101228 100644 0 0 7044 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Headers/SystemConfiguration.h
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Modules
+92d404784f45fa776f8ce32758fb6a4e2f921fc6 100644 0 0 418 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Modules/module.modulemap
+                                         40755 0 0 0 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders
+7ac80b8f226f0ef7b005aae0837224f8beef9ed6 100644 0 0 3794 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/DeviceOnHold.h
+69a034815abbc38409f4a014d7ec87cf826d1f93 100644 0 0 6626 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCDPlugin.h
+e4095b8e77f46c636bfed0c59a79923365132d91 100644 0 0 3258 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCDynamicStoreCopySpecificPrivate.h
+503f2338560396fcef096d4ee297f3407206bb75 100644 0 0 9116 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCDynamicStorePrivate.h
+028de29bae68cfe47eb0276f0ef78b4eba6631ca 100644 0 0 3203 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCDynamicStoreSetSpecificPrivate.h
+295aadf298ef5ced8ce6b3501d2d829f5d0020d9 100644 0 0 43093 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCNetworkConfigurationPrivate.h
+a9ea9dec07ef30b48b1d37739272d80f1990e520 100644 0 0 25757 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCNetworkConnectionPrivate.h
+40a622fc8423e1685579a12c5035e51e1c0d9173 100644 0 0 3991 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCNetworkSignature.h
+86f8df37cb73e5bd8e1807bbd3c4c6d35e901d86 100644 0 0 1160 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCNetworkSignaturePrivate.h
+d422373783b5967ec51521e33f1f2304924bcc0e 100644 0 0 2144 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPreferencesGetSpecificPrivate.h
+a1cd2cc1a990b3bb57583b0ecd267b613753c54a 100644 0 0 3519 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPreferencesKeychainPrivate.h
+9c8c85c2712193062923a9613e15757047a66d12 100644 0 0 3703 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPreferencesPathKey.h
+269cca117e329614b14c466658914dfa0a7c8aa8 100644 0 0 5859 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPreferencesPrivate.h
+be62e7410cede5dfaeaad4bd0da8d0843755aca5 100644 0 0 2182 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPreferencesSetSpecificPrivate.h
+5a4b2bd3a1204a5aaa76c97dc44668264783fcdc 100644 0 0 28734 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCPrivate.h
+62262d3af3dcb62bbfdef5bf83fe11fa7242c3d1 100644 0 0 68639 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCSchemaDefinitionsPrivate.h
+ab7af8b46c382b94a0b1fe2c05066a92e26bc8a8 100644 0 0 2711 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SCValidation.h
+d08b96c4570ca9bf44748c5b988e704a6097d4d2 100644 0 0 1071 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/SNHelperPrivate.h
+6418285debab07cd187544583c2b39d459ab8fc4 100644 0 0 70 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNAppLayerPrivate.h
+41afab33e64b8d401c594f3da9ebce2c3bcc9568 100644 0 0 79 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNConfiguration.h
+10181ae202cf25ff5dd90cc696f8399d22d0f1c2 100644 0 0 67 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNFlow.h
+58da085c1dba9fbeef6f8a29ce24716dfe67ba2f 100644 0 0 73 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNPrivate.h
+fc63d0382d40eca47ab3e2a520d2fa37804fa07e 100644 0 0 67 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNTunnel.h
+68ffab21c3212f9636d896e2368ac93b843020fc 100644 0 0 73 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/VPNTunnelPrivate.h
+11b9815f6ac93341ee4467e8efb3b18ed59f3671 100644 0 0 2283 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/A/PrivateHeaders/scprefs_observer.h
+                                         120755 0 0 1 ./System/Library/Frameworks/SystemConfiguration.framework/Versions/Current -> A
+                                         40755 0 0 0 ./System/Library/SystemConfiguration
+                                         40755 0 0 0 ./System/Library/UserEventPlugins
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/bin
+                                         120755 0 0 95 ./usr/local/bin/get-mobility-info -> /System/Library/Frameworks/SystemConfiguration.framework/Versions/A/Resources/get-mobility-info
+                                         40755 0 0 0 ./usr/local/include
+eb3dd194f54db6c84cf221722ff0314badcf486a 100644 0 0 3956 ./usr/local/include/dnsinfo.h
+ff132e3e608f17c7a0460a69869c30c918db56d2 100644 0 0 8759 ./usr/local/include/network_information.h

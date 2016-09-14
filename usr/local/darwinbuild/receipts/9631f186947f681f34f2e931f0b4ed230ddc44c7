@@ -1,0 +1,4 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+7be745b3bfffda9f195c2295d96610b1b07b0df6 100644 0 0 15705 ./usr/local/include/bootroot.h

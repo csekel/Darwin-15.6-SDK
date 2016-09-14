@@ -1,0 +1,9 @@
+                                         40755 0 0 0 ./System
+                                         40755 0 0 0 ./System/Library
+                                         40755 0 0 0 ./System/Library/SystemConfiguration
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+57f0246416b4113f84e4335d877949f3487d833d 100644 0 0 10241 ./usr/local/include/BSDPClient.h
+d99f7d58f36ab39a2c13fac637cbb36a301ecace 100644 0 0 4667 ./usr/local/include/DHCPServer.h
+e11ef509ef30ada561974bfb19c943f9c336e206 100644 0 0 6100 ./usr/local/include/IPConfigurationService.h

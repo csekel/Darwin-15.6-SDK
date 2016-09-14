@@ -1,0 +1,19 @@
+                                         40755 0 0 0 ./System
+                                         40755 0 0 0 ./System/Library
+                                         40755 0 0 0 ./System/Library/Frameworks
+                                         40755 0 0 0 ./System/Library/Frameworks/System.framework
+                                         120755 0 0 31 ./System/Library/Frameworks/System.framework/PrivateHeaders -> Versions/Current/PrivateHeaders
+                                         120755 0 0 26 ./System/Library/Frameworks/System.framework/Resources -> Versions/Current/Resources
+                                         120755 0 0 23 ./System/Library/Frameworks/System.framework/System -> Versions/Current/System
+                                         120755 0 0 29 ./System/Library/Frameworks/System.framework/System_debug -> Versions/Current/System_debug
+                                         40755 0 0 0 ./System/Library/Frameworks/System.framework/Versions
+                                         40755 0 0 0 ./System/Library/Frameworks/System.framework/Versions/B
+                                         120755 0 0 43 ./System/Library/Frameworks/System.framework/Versions/B/System -> ../../../../../../usr/lib/libSystem.B.dylib
+                                         120755 0 0 49 ./System/Library/Frameworks/System.framework/Versions/B/System_debug -> ../../../../../../usr/lib/libSystem.B_debug.dylib
+                                         120755 0 0 1 ./System/Library/Frameworks/System.framework/Versions/Current -> B
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/lib
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+                                         40755 0 0 0 ./usr/local/include/os
+85dfe79e1f795c14c15d9cc99863ad06fdb1c9a0 100644 0 0 3204 ./usr/local/include/os/alloc_once_private.h

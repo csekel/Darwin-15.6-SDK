@@ -1,0 +1,17 @@
+                                         40755 0 0 0 ./System
+                                         40755 0 0 0 ./System/Library
+                                         40755 0 0 0 ./System/Library/Extensions
+                                         40755 0 0 0 ./System/Library/Frameworks
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/usb
+d0969f1419fbee02720cfa253f24196db5f6f13f 100644 0 0 4536 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/usb/IOUFIStorageServices.h
+46108bc2f74df7efbd92468074accdb830972d03 100644 0 0 19332 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/usb/IOUSBMassStorageClass.h
+de052962def3a0dd686eaf0893438f7a1d19ce2b 100644 0 0 11930 ./System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/usb/IOUSBMassStorageUFISubclass.h
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/PrivateHeaders
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/PrivateHeaders/IOKit
+                                         40755 0 0 0 ./System/Library/Frameworks/Kernel.framework/Versions/A/PrivateHeaders/IOKit/usb
+f84a6d26d3bbb72b08dcdd965e1c68b9399cb757 100644 0 0 6203 ./System/Library/Frameworks/Kernel.framework/Versions/A/PrivateHeaders/IOKit/usb/IOUSBMassStorageClassTimestamps.h

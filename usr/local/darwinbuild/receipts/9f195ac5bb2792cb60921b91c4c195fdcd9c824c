@@ -1,0 +1,6 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+                                         40755 0 0 0 ./usr/local/include/mach-o
+d8a0755f551758793c42b3e8b218339e72bf7c94 100644 0 0 1540 ./usr/local/include/mach-o/dsc_extractor.h
+d963c5951a6a51b61fac576f2719b6f09c58390d 100644 0 0 3938 ./usr/local/include/mach-o/dsc_iterator.h

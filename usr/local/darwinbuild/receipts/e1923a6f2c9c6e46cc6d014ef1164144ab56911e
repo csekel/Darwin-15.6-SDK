@@ -1,0 +1,11 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/include
+                                         40755 0 0 0 ./usr/include/arpa
+                                         120644 0 0 12 ./usr/include/arpa/nameser.h -> ../nameser.h
+8909d245c1c920ebe4d5eefff965d59189c106f4 100644 0 0 5682 ./usr/include/dns.h
+7b90e3aa8982c780845f537e1eb7925c1e39ea0d 100644 0 0 7953 ./usr/include/dns_util.h
+0a33241827be5c7059603286d6e4849e555fec17 100644 0 0 22018 ./usr/include/nameser.h
+77782711ee01035f09ed1ad85d5e150627084796 100644 0 0 19273 ./usr/include/resolv.h
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+f5715d85c820c9594ebafb5db12978e4f764ff91 100644 0 0 2136 ./usr/local/include/dns_private.h

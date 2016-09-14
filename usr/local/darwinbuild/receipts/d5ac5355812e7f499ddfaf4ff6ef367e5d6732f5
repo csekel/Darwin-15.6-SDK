@@ -1,0 +1,7 @@
+                                         40755 0 0 0 ./usr
+                                         40755 0 0 0 ./usr/include
+870633c5636a6a80fdd9df7557d726c953b13fa0 100644 0 0 129094 ./usr/include/dns_sd.h
+                                         40755 0 0 0 ./usr/local
+                                         40755 0 0 0 ./usr/local/include
+205ea469a5454d77b660605f913bcd37673a20b3 100644 0 0 1269 ./usr/local/include/dns_sd_private.h
+2ba21a9d5bec4780e37a29470a6d33d23ca85352 100644 0 0 4709 ./usr/local/include/dns_services.h
